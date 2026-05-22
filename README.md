@@ -1,1 +1,1 @@
-#It's a simple program in python programming language...enjoy!
+//It's a simple program in swift programming language...enjoy! 
